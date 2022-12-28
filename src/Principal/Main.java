@@ -2,7 +2,6 @@ package Principal;
 import Vista.*;
 import Controlador.*;
 import Modelo.*;
-
 import Modelo.PokemonDAO;
 import Objetos.Pokemon;
 import java.util.ArrayList;
